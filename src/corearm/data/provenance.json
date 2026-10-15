@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "networks": {
+    "random": "df92aff4d19357e844df410d297388f9fd9157a029f8c01e356a072d3edd9d85",
+    "ca_low": "b3e55b4b8f439dece132a81cd804de791ec98c94ab71ac01b9157bbc9761410a",
+    "ca_high": "e79e9da4bc430cadb099c97e14a2998024d1fc16579e55b9a0abc05c67dc16c0"
+  },
+  "original_solver_sha256": {
+    "reversible": "7cc1483c12d3c42d7531a664e1b3026017e9849597cc6d5dd207ba2977b6ad27",
+    "irreversible": "d4ba6665d2e7fd3885b4c8fbf7a67f488aad8ea50b332208fcd57b1ff31dc4eb"
+  }
+}

@@ -1,0 +1,2024 @@
+{
+  "nodes": [
+    {
+      "id": "cluster_1",
+      "pos": [
+        39.032731,
+        485.550667,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 39.032731,
+      "y": 485.550667,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_2",
+      "pos": [
+        349.705741,
+        485.502104,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 349.705741,
+      "y": 485.502104,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_3",
+      "pos": [
+        75.378641,
+        484.301413,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 75.378641,
+      "y": 484.301413,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_4",
+      "pos": [
+        432.868827,
+        483.147316,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "X",
+      "x": 432.868827,
+      "y": 483.147316,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_5",
+      "pos": [
+        124.817478,
+        483.125733,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 124.817478,
+      "y": 483.125733,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_6",
+      "pos": [
+        317.125171,
+        483.125733,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 317.125171,
+      "y": 483.125733,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_7",
+      "pos": [
+        210.374042,
+        482.757502,
+        0.0
+      ],
+      "degree": 6,
+      "node_type": "D6",
+      "x": 210.374042,
+      "y": 482.757502,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_8",
+      "pos": [
+        282.560737,
+        480.719092,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 282.560737,
+      "y": 480.719092,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_9",
+      "pos": [
+        381.501403,
+        449.777389,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 381.501403,
+      "y": 449.777389,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_10",
+      "pos": [
+        427.382142,
+        449.737337,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 427.382142,
+      "y": 449.737337,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_11",
+      "pos": [
+        310.427564,
+        447.382312,
+        0.0
+      ],
+      "degree": 11,
+      "node_type": "D11",
+      "x": 310.427564,
+      "y": 447.382312,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_12",
+      "pos": [
+        16.609903,
+        446.37203,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 16.609903,
+      "y": 446.37203,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_13",
+      "pos": [
+        481.147925,
+        444.676251,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 481.147925,
+      "y": 444.676251,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_14",
+      "pos": [
+        212.728516,
+        441.155619,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "X",
+      "x": 212.728516,
+      "y": 441.155619,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_15",
+      "pos": [
+        176.216641,
+        436.813187,
+        0.0
+      ],
+      "degree": 5,
+      "node_type": "D5",
+      "x": 176.216641,
+      "y": 436.813187,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_16",
+      "pos": [
+        64.364207,
+        422.684458,
+        0.0
+      ],
+      "degree": 13,
+      "node_type": "D13",
+      "x": 64.364207,
+      "y": 422.684458,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_17",
+      "pos": [
+        18.811121,
+        405.40412,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 18.811121,
+      "y": 405.40412,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_18",
+      "pos": [
+        211.558174,
+        401.514663,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 211.558174,
+      "y": 401.514663,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_19",
+      "pos": [
+        140.52809,
+        379.108011,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "X",
+      "x": 140.52809,
+      "y": 379.108011,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_20",
+      "pos": [
+        481.148932,
+        371.246059,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 481.148932,
+      "y": 371.246059,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_21",
+      "pos": [
+        18.838305,
+        367.296093,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 18.838305,
+      "y": 367.296093,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_22",
+      "pos": [
+        346.153846,
+        365.017781,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 346.153846,
+      "y": 365.017781,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_23",
+      "pos": [
+        298.286866,
+        363.765056,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "X",
+      "x": 298.286866,
+      "y": 363.765056,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_24",
+      "pos": [
+        416.797488,
+        355.572998,
+        0.0
+      ],
+      "degree": 13,
+      "node_type": "D13",
+      "x": 416.797488,
+      "y": 355.572998,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_25",
+      "pos": [
+        122.44898,
+        351.648352,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "X",
+      "x": 122.44898,
+      "y": 351.648352,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_26",
+      "pos": [
+        164.835165,
+        343.811821,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 164.835165,
+      "y": 343.811821,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_27",
+      "pos": [
+        204.039955,
+        338.71091,
+        0.0
+      ],
+      "degree": 10,
+      "node_type": "D10",
+      "x": 204.039955,
+      "y": 338.71091,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_28",
+      "pos": [
+        304.511637,
+        328.506587,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 304.511637,
+      "y": 328.506587,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_29",
+      "pos": [
+        481.174511,
+        323.352449,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 481.174511,
+      "y": 323.352449,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_30",
+      "pos": [
+        283.771675,
+        312.032716,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 283.771675,
+      "y": 312.032716,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_31",
+      "pos": [
+        17.217185,
+        310.832025,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "X",
+      "x": 17.217185,
+      "y": 310.832025,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_32",
+      "pos": [
+        313.598991,
+        301.782041,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "X",
+      "x": 313.598991,
+      "y": 301.782041,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_33",
+      "pos": [
+        56.146338,
+        283.359498,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "X",
+      "x": 56.146338,
+      "y": 283.359498,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_34",
+      "pos": [
+        197.409733,
+        281.00471,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 197.409733,
+      "y": 281.00471,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_35",
+      "pos": [
+        403.061224,
+        271.978022,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 403.061224,
+      "y": 271.978022,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_36",
+      "pos": [
+        242.170419,
+        270.384866,
+        0.0
+      ],
+      "degree": 6,
+      "node_type": "D6",
+      "x": 242.170419,
+      "y": 270.384866,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_37",
+      "pos": [
+        480.41826,
+        267.29438,
+        0.0
+      ],
+      "degree": 5,
+      "node_type": "D5",
+      "x": 480.41826,
+      "y": 267.29438,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_38",
+      "pos": [
+        436.852793,
+        267.268446,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "X",
+      "x": 436.852793,
+      "y": 267.268446,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_39",
+      "pos": [
+        107.521368,
+        251.596023,
+        0.0
+      ],
+      "degree": 12,
+      "node_type": "D12",
+      "x": 107.521368,
+      "y": 251.596023,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_40",
+      "pos": [
+        326.530612,
+        248.037677,
+        0.0
+      ],
+      "degree": 12,
+      "node_type": "D12",
+      "x": 326.530612,
+      "y": 248.037677,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_41",
+      "pos": [
+        264.507422,
+        244.519265,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "X",
+      "x": 264.507422,
+      "y": 244.519265,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_42",
+      "pos": [
+        19.230769,
+        238.22606,
+        0.0
+      ],
+      "degree": 5,
+      "node_type": "D5",
+      "x": 19.230769,
+      "y": 238.22606,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_43",
+      "pos": [
+        406.200942,
+        226.452119,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 406.200942,
+      "y": 226.452119,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_44",
+      "pos": [
+        184.850863,
+        224.097331,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "X",
+      "x": 184.850863,
+      "y": 224.097331,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_45",
+      "pos": [
+        431.34257,
+        215.855573,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 431.34257,
+      "y": 215.855573,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_46",
+      "pos": [
+        55.325627,
+        202.538958,
+        0.0
+      ],
+      "degree": 5,
+      "node_type": "D5",
+      "x": 55.325627,
+      "y": 202.538958,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_47",
+      "pos": [
+        319.093496,
+        195.078242,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "X",
+      "x": 319.093496,
+      "y": 195.078242,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_48",
+      "pos": [
+        352.407755,
+        194.598665,
+        0.0
+      ],
+      "degree": 2,
+      "node_type": "D2",
+      "x": 352.407755,
+      "y": 194.598665,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_49",
+      "pos": [
+        271.17338,
+        191.891931,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "X",
+      "x": 271.17338,
+      "y": 191.891931,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_50",
+      "pos": [
+        159.733124,
+        187.990581,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "X",
+      "x": 159.733124,
+      "y": 187.990581,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_51",
+      "pos": [
+        93.775169,
+        182.88854,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "X",
+      "x": 93.775169,
+      "y": 182.88854,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_52",
+      "pos": [
+        481.181908,
+        176.194743,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 481.181908,
+      "y": 176.194743,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_53",
+      "pos": [
+        425.039246,
+        166.405024,
+        0.0
+      ],
+      "degree": 11,
+      "node_type": "D11",
+      "x": 425.039246,
+      "y": 166.405024,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_54",
+      "pos": [
+        205.623583,
+        163.645561,
+        0.0
+      ],
+      "degree": 11,
+      "node_type": "D11",
+      "x": 205.623583,
+      "y": 163.645561,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_55",
+      "pos": [
+        138.919681,
+        162.493192,
+        0.0
+      ],
+      "degree": 6,
+      "node_type": "D6",
+      "x": 138.919681,
+      "y": 162.493192,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_56",
+      "pos": [
+        16.852092,
+        162.480377,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "X",
+      "x": 16.852092,
+      "y": 162.480377,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_57",
+      "pos": [
+        271.126175,
+        158.150605,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "X",
+      "x": 271.126175,
+      "y": 158.150605,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_58",
+      "pos": [
+        347.33124,
+        141.679749,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 347.33124,
+      "y": 141.679749,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_59",
+      "pos": [
+        287.688606,
+        134.980428,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "X",
+      "x": 287.688606,
+      "y": 134.980428,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_60",
+      "pos": [
+        481.161695,
+        129.905808,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 481.161695,
+      "y": 129.905808,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_61",
+      "pos": [
+        18.019248,
+        104.777831,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 18.019248,
+      "y": 104.777831,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_62",
+      "pos": [
+        162.480377,
+        104.395604,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "X",
+      "x": 162.480377,
+      "y": 104.395604,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_63",
+      "pos": [
+        258.241758,
+        89.886514,
+        0.0
+      ],
+      "degree": 5,
+      "node_type": "D5",
+      "x": 258.241758,
+      "y": 89.886514,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_64",
+      "pos": [
+        404.642976,
+        84.745187,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 404.642976,
+      "y": 84.745187,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_65",
+      "pos": [
+        78.492936,
+        78.492936,
+        0.0
+      ],
+      "degree": 12,
+      "node_type": "D12",
+      "x": 78.492936,
+      "y": 78.492936,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_66",
+      "pos": [
+        334.407814,
+        75.757893,
+        0.0
+      ],
+      "degree": 12,
+      "node_type": "D12",
+      "x": 334.407814,
+      "y": 75.757893,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_67",
+      "pos": [
+        481.175287,
+        75.720198,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 481.175287,
+      "y": 75.720198,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_68",
+      "pos": [
+        17.998533,
+        74.97275,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 17.998533,
+      "y": 74.97275,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_69",
+      "pos": [
+        235.098235,
+        65.17632,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "X",
+      "x": 235.098235,
+      "y": 65.17632,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_70",
+      "pos": [
+        201.713253,
+        62.376399,
+        0.0
+      ],
+      "degree": 5,
+      "node_type": "D5",
+      "x": 201.713253,
+      "y": 62.376399,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_71",
+      "pos": [
+        169.132563,
+        52.221099,
+        0.0
+      ],
+      "degree": 6,
+      "node_type": "D6",
+      "x": 169.132563,
+      "y": 52.221099,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_72",
+      "pos": [
+        104.022853,
+        23.917048,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 104.022853,
+      "y": 23.917048,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_73",
+      "pos": [
+        476.864297,
+        23.132119,
+        0.0
+      ],
+      "degree": 5,
+      "node_type": "D5",
+      "x": 476.864297,
+      "y": 23.132119,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_74",
+      "pos": [
+        302.197802,
+        22.68606,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 302.197802,
+      "y": 22.68606,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_75",
+      "pos": [
+        200.529738,
+        22.34719,
+        0.0
+      ],
+      "degree": 6,
+      "node_type": "D6",
+      "x": 200.529738,
+      "y": 22.34719,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_76",
+      "pos": [
+        69.871373,
+        21.167772,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 69.871373,
+      "y": 21.167772,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_77",
+      "pos": [
+        159.721231,
+        21.165909,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "X",
+      "x": 159.721231,
+      "y": 21.165909,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_78",
+      "pos": [
+        361.105638,
+        21.154958,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 361.105638,
+      "y": 21.154958,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_79",
+      "pos": [
+        412.126046,
+        21.154958,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 412.126046,
+      "y": 21.154958,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_80",
+      "pos": [
+        20.788735,
+        19.59605,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "Y",
+      "x": 20.788735,
+      "y": 19.59605,
+      "z": 0.0
+    }
+  ],
+  "links": [
+    {
+      "source": "cluster_1",
+      "target": "cluster_12",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_1",
+      "target": "cluster_16",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_1",
+      "target": "cluster_3",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_10",
+      "target": "cluster_24",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_10",
+      "target": "cluster_4",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_10",
+      "target": "cluster_9",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_11",
+      "target": "cluster_14",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_11",
+      "target": "cluster_18",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_11",
+      "target": "cluster_2",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_11",
+      "target": "cluster_22",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_11",
+      "target": "cluster_23",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_11",
+      "target": "cluster_24",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_11",
+      "target": "cluster_4",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_11",
+      "target": "cluster_6",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_11",
+      "target": "cluster_7",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_11",
+      "target": "cluster_8",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_11",
+      "target": "cluster_9",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_12",
+      "target": "cluster_16",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_12",
+      "target": "cluster_17",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_13",
+      "target": "cluster_20",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_13",
+      "target": "cluster_24",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_13",
+      "target": "cluster_4",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_14",
+      "target": "cluster_15",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_14",
+      "target": "cluster_18",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_14",
+      "target": "cluster_7",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_15",
+      "target": "cluster_16",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_15",
+      "target": "cluster_19",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_15",
+      "target": "cluster_27",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_15",
+      "target": "cluster_7",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_16",
+      "target": "cluster_17",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_16",
+      "target": "cluster_19",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_16",
+      "target": "cluster_21",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_16",
+      "target": "cluster_25",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_16",
+      "target": "cluster_3",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_16",
+      "target": "cluster_31",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_16",
+      "target": "cluster_33",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_16",
+      "target": "cluster_39",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_16",
+      "target": "cluster_5",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_16",
+      "target": "cluster_7",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_17",
+      "target": "cluster_21",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_18",
+      "target": "cluster_27",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_19",
+      "target": "cluster_25",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_19",
+      "target": "cluster_27",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_2",
+      "target": "cluster_4",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_2",
+      "target": "cluster_6",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_20",
+      "target": "cluster_24",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_20",
+      "target": "cluster_29",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_21",
+      "target": "cluster_31",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_22",
+      "target": "cluster_23",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_22",
+      "target": "cluster_24",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_23",
+      "target": "cluster_27",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_23",
+      "target": "cluster_28",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_24",
+      "target": "cluster_28",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_24",
+      "target": "cluster_29",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_24",
+      "target": "cluster_32",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_24",
+      "target": "cluster_35",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_24",
+      "target": "cluster_37",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_24",
+      "target": "cluster_38",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_24",
+      "target": "cluster_40",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_24",
+      "target": "cluster_9",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_25",
+      "target": "cluster_26",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_25",
+      "target": "cluster_39",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_26",
+      "target": "cluster_27",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_26",
+      "target": "cluster_39",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_27",
+      "target": "cluster_30",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_27",
+      "target": "cluster_34",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_27",
+      "target": "cluster_36",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_27",
+      "target": "cluster_39",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_27",
+      "target": "cluster_40",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_28",
+      "target": "cluster_32",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_29",
+      "target": "cluster_37",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_3",
+      "target": "cluster_5",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_30",
+      "target": "cluster_32",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_30",
+      "target": "cluster_40",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_31",
+      "target": "cluster_33",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_31",
+      "target": "cluster_42",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_32",
+      "target": "cluster_40",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_33",
+      "target": "cluster_39",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_33",
+      "target": "cluster_42",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_34",
+      "target": "cluster_36",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_34",
+      "target": "cluster_39",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_35",
+      "target": "cluster_38",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_35",
+      "target": "cluster_40",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_36",
+      "target": "cluster_40",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_36",
+      "target": "cluster_41",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_36",
+      "target": "cluster_44",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_36",
+      "target": "cluster_54",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_37",
+      "target": "cluster_38",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_37",
+      "target": "cluster_52",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_37",
+      "target": "cluster_53",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_38",
+      "target": "cluster_45",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_39",
+      "target": "cluster_42",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_39",
+      "target": "cluster_44",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_39",
+      "target": "cluster_46",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_39",
+      "target": "cluster_50",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_39",
+      "target": "cluster_51",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_39",
+      "target": "cluster_55",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_40",
+      "target": "cluster_41",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_40",
+      "target": "cluster_43",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_40",
+      "target": "cluster_47",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_40",
+      "target": "cluster_48",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_40",
+      "target": "cluster_49",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_40",
+      "target": "cluster_53",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_41",
+      "target": "cluster_49",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_41",
+      "target": "cluster_54",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_42",
+      "target": "cluster_46",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_42",
+      "target": "cluster_56",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_43",
+      "target": "cluster_45",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_43",
+      "target": "cluster_53",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_44",
+      "target": "cluster_50",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_44",
+      "target": "cluster_54",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_45",
+      "target": "cluster_53",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_46",
+      "target": "cluster_51",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_46",
+      "target": "cluster_56",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_46",
+      "target": "cluster_65",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_47",
+      "target": "cluster_57",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_47",
+      "target": "cluster_59",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_47",
+      "target": "cluster_66",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_48",
+      "target": "cluster_58",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_49",
+      "target": "cluster_54",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_49",
+      "target": "cluster_57",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_5",
+      "target": "cluster_7",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_50",
+      "target": "cluster_54",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_50",
+      "target": "cluster_55",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_51",
+      "target": "cluster_55",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_51",
+      "target": "cluster_65",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_52",
+      "target": "cluster_53",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_52",
+      "target": "cluster_60",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_53",
+      "target": "cluster_58",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_53",
+      "target": "cluster_60",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_53",
+      "target": "cluster_64",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_53",
+      "target": "cluster_66",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_53",
+      "target": "cluster_67",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_53",
+      "target": "cluster_73",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_54",
+      "target": "cluster_55",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_54",
+      "target": "cluster_57",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_54",
+      "target": "cluster_62",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_54",
+      "target": "cluster_63",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_54",
+      "target": "cluster_70",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_54",
+      "target": "cluster_71",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_55",
+      "target": "cluster_62",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_55",
+      "target": "cluster_65",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_56",
+      "target": "cluster_61",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_56",
+      "target": "cluster_65",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_57",
+      "target": "cluster_59",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_58",
+      "target": "cluster_66",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_59",
+      "target": "cluster_63",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_59",
+      "target": "cluster_66",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_6",
+      "target": "cluster_8",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_60",
+      "target": "cluster_67",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_61",
+      "target": "cluster_65",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_61",
+      "target": "cluster_68",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_62",
+      "target": "cluster_65",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_62",
+      "target": "cluster_71",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_63",
+      "target": "cluster_66",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_63",
+      "target": "cluster_69",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_63",
+      "target": "cluster_70",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_64",
+      "target": "cluster_66",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_64",
+      "target": "cluster_73",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_65",
+      "target": "cluster_68",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_65",
+      "target": "cluster_71",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_65",
+      "target": "cluster_72",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_65",
+      "target": "cluster_76",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_65",
+      "target": "cluster_77",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_65",
+      "target": "cluster_80",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_66",
+      "target": "cluster_69",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_66",
+      "target": "cluster_73",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_66",
+      "target": "cluster_74",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_66",
+      "target": "cluster_75",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_66",
+      "target": "cluster_78",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_66",
+      "target": "cluster_79",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_67",
+      "target": "cluster_73",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_68",
+      "target": "cluster_80",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_69",
+      "target": "cluster_70",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_69",
+      "target": "cluster_75",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_7",
+      "target": "cluster_8",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_70",
+      "target": "cluster_71",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_70",
+      "target": "cluster_75",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_71",
+      "target": "cluster_75",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_71",
+      "target": "cluster_77",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_72",
+      "target": "cluster_76",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_72",
+      "target": "cluster_77",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_73",
+      "target": "cluster_79",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_74",
+      "target": "cluster_75",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_74",
+      "target": "cluster_78",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_75",
+      "target": "cluster_77",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_76",
+      "target": "cluster_80",
+      "edge_origin": "corrected_manual_audit"
+    },
+    {
+      "source": "cluster_78",
+      "target": "cluster_79",
+      "edge_origin": "corrected_manual_audit"
+    }
+  ],
+  "provenance": {
+    "source": "optimized_network_style_editor_and_topology(1).html",
+    "method": "restored clear radial core-arm skeleton",
+    "fixed_boundary_node_count_each_side": 8,
+    "bottom_boundary_nodes": [
+      "cluster_80",
+      "cluster_78",
+      "cluster_79",
+      "cluster_77",
+      "cluster_76",
+      "cluster_75",
+      "cluster_74",
+      "cluster_73"
+    ],
+    "top_boundary_nodes": [
+      "cluster_8",
+      "cluster_7",
+      "cluster_5",
+      "cluster_6",
+      "cluster_4",
+      "cluster_3",
+      "cluster_2",
+      "cluster_1"
+    ],
+    "core_nodes": [
+      "cluster_11",
+      "cluster_16",
+      "cluster_24",
+      "cluster_27",
+      "cluster_39",
+      "cluster_40",
+      "cluster_53",
+      "cluster_54",
+      "cluster_65",
+      "cluster_66"
+    ],
+    "core_degree_definition": "degree >= 10"
+  }
+}

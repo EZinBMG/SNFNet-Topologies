@@ -1,0 +1,2855 @@
+{
+  "nodes": [
+    {
+      "id": "cluster_1",
+      "pos": [
+        117.396338,
+        485.928216,
+        0.0
+      ],
+      "x": 117.396338,
+      "y": 485.928216,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_2",
+      "pos": [
+        250.802124,
+        485.547481,
+        0.0
+      ],
+      "x": 250.802124,
+      "y": 485.547481,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_3",
+      "pos": [
+        395.551762,
+        484.377646,
+        0.0
+      ],
+      "x": 395.551762,
+      "y": 484.377646,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_4",
+      "pos": [
+        36.384977,
+        483.622508,
+        0.0
+      ],
+      "x": 36.384977,
+      "y": 483.622508,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_5",
+      "pos": [
+        357.186892,
+        483.595174,
+        0.0
+      ],
+      "x": 357.186892,
+      "y": 483.595174,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_6",
+      "pos": [
+        433.110447,
+        483.595174,
+        0.0
+      ],
+      "x": 433.110447,
+      "y": 483.595174,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_7",
+      "pos": [
+        170.187793,
+        483.568075,
+        0.0
+      ],
+      "x": 170.187793,
+      "y": 483.568075,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_8",
+      "pos": [
+        483.959311,
+        482.394366,
+        0.0
+      ],
+      "x": 483.959311,
+      "y": 482.394366,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_9",
+      "pos": [
+        296.948357,
+        482.00313,
+        0.0
+      ],
+      "x": 296.948357,
+      "y": 482.00313,
+      "z": 0.0,
+      "degree": 6,
+      "node_type": "D6"
+    },
+    {
+      "id": "cluster_10",
+      "pos": [
+        217.13615,
+        481.611894,
+        0.0
+      ],
+      "x": 217.13615,
+      "y": 481.611894,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_11",
+      "pos": [
+        71.6081,
+        480.465283,
+        0.0
+      ],
+      "x": 71.6081,
+      "y": 480.465283,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_12",
+      "pos": [
+        152.973396,
+        470.266041,
+        0.0
+      ],
+      "x": 152.973396,
+      "y": 470.266041,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_13",
+      "pos": [
+        21.882017,
+        453.442879,
+        0.0
+      ],
+      "x": 21.882017,
+      "y": 453.442879,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_14",
+      "pos": [
+        223.395931,
+        442.879499,
+        0.0
+      ],
+      "x": 223.395931,
+      "y": 442.879499,
+      "z": 0.0,
+      "degree": 13,
+      "node_type": "D13"
+    },
+    {
+      "id": "cluster_15",
+      "pos": [
+        422.143975,
+        442.879499,
+        0.0
+      ],
+      "x": 422.143975,
+      "y": 442.879499,
+      "z": 0.0,
+      "degree": 11,
+      "node_type": "D11"
+    },
+    {
+      "id": "cluster_16",
+      "pos": [
+        483.935497,
+        442.879499,
+        0.0
+      ],
+      "x": 483.935497,
+      "y": 442.879499,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_17",
+      "pos": [
+        55.164319,
+        438.967136,
+        0.0
+      ],
+      "x": 55.164319,
+      "y": 438.967136,
+      "z": 0.0,
+      "degree": 12,
+      "node_type": "D12"
+    },
+    {
+      "id": "cluster_18",
+      "pos": [
+        363.518579,
+        431.57186,
+        0.0
+      ],
+      "x": 363.518579,
+      "y": 431.57186,
+      "z": 0.0,
+      "degree": 5,
+      "node_type": "D5"
+    },
+    {
+      "id": "cluster_19",
+      "pos": [
+        19.507145,
+        431.521687,
+        0.0
+      ],
+      "x": 19.507145,
+      "y": 431.521687,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_20",
+      "pos": [
+        307.537183,
+        426.434851,
+        0.0
+      ],
+      "x": 307.537183,
+      "y": 426.434851,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_21",
+      "pos": [
+        157.668232,
+        417.840376,
+        0.0
+      ],
+      "x": 157.668232,
+      "y": 417.840376,
+      "z": 0.0,
+      "degree": 5,
+      "node_type": "D5"
+    },
+    {
+      "id": "cluster_22",
+      "pos": [
+        388.847886,
+        410.432513,
+        0.0
+      ],
+      "x": 388.847886,
+      "y": 410.432513,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_23",
+      "pos": [
+        191.341598,
+        409.611793,
+        0.0
+      ],
+      "x": 191.341598,
+      "y": 409.611793,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_24",
+      "pos": [
+        482.394366,
+        407.276995,
+        0.0
+      ],
+      "x": 482.394366,
+      "y": 407.276995,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_25",
+      "pos": [
+        314.150899,
+        398.305659,
+        0.0
+      ],
+      "x": 314.150899,
+      "y": 398.305659,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_26",
+      "pos": [
+        119.743756,
+        398.291283,
+        0.0
+      ],
+      "x": 119.743756,
+      "y": 398.291283,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_27",
+      "pos": [
+        285.211268,
+        388.943322,
+        0.0
+      ],
+      "x": 285.211268,
+      "y": 388.943322,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_28",
+      "pos": [
+        19.548266,
+        382.994939,
+        0.0
+      ],
+      "x": 19.548266,
+      "y": 382.994939,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_29",
+      "pos": [
+        431.564001,
+        378.666154,
+        0.0
+      ],
+      "x": 431.564001,
+      "y": 378.666154,
+      "z": 0.0,
+      "degree": 5,
+      "node_type": "D5"
+    },
+    {
+      "id": "cluster_30",
+      "pos": [
+        77.875676,
+        376.001315,
+        0.0
+      ],
+      "x": 77.875676,
+      "y": 376.001315,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_31",
+      "pos": [
+        257.419641,
+        371.32134,
+        0.0
+      ],
+      "x": 257.419641,
+      "y": 371.32134,
+      "z": 0.0,
+      "degree": 6,
+      "node_type": "D6"
+    },
+    {
+      "id": "cluster_32",
+      "pos": [
+        482.382407,
+        364.659573,
+        0.0
+      ],
+      "x": 482.382407,
+      "y": 364.659573,
+      "z": 0.0,
+      "degree": 6,
+      "node_type": "D6"
+    },
+    {
+      "id": "cluster_33",
+      "pos": [
+        41.862285,
+        360.3753,
+        0.0
+      ],
+      "x": 41.862285,
+      "y": 360.3753,
+      "z": 0.0,
+      "degree": 5,
+      "node_type": "D5"
+    },
+    {
+      "id": "cluster_34",
+      "pos": [
+        206.168913,
+        357.954177,
+        0.0
+      ],
+      "x": 206.168913,
+      "y": 357.954177,
+      "z": 0.0,
+      "degree": 5,
+      "node_type": "D5"
+    },
+    {
+      "id": "cluster_35",
+      "pos": [
+        325.880011,
+        354.092296,
+        0.0
+      ],
+      "x": 325.880011,
+      "y": 354.092296,
+      "z": 0.0,
+      "degree": 12,
+      "node_type": "D12"
+    },
+    {
+      "id": "cluster_36",
+      "pos": [
+        436.661266,
+        351.735289,
+        0.0
+      ],
+      "x": 436.661266,
+      "y": 351.735289,
+      "z": 0.0,
+      "degree": 6,
+      "node_type": "D6"
+    },
+    {
+      "id": "cluster_37",
+      "pos": [
+        271.126761,
+        349.374022,
+        0.0
+      ],
+      "x": 271.126761,
+      "y": 349.374022,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_38",
+      "pos": [
+        121.283255,
+        336.85446,
+        0.0
+      ],
+      "x": 121.283255,
+      "y": 336.85446,
+      "z": 0.0,
+      "degree": 13,
+      "node_type": "D13"
+    },
+    {
+      "id": "cluster_39",
+      "pos": [
+        456.964006,
+        324.334898,
+        0.0
+      ],
+      "x": 456.964006,
+      "y": 324.334898,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_40",
+      "pos": [
+        401.057063,
+        319.679911,
+        0.0
+      ],
+      "x": 401.057063,
+      "y": 319.679911,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_41",
+      "pos": [
+        44.972524,
+        316.533396,
+        0.0
+      ],
+      "x": 44.972524,
+      "y": 316.533396,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_42",
+      "pos": [
+        21.909233,
+        312.597809,
+        0.0
+      ],
+      "x": 21.909233,
+      "y": 312.597809,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_43",
+      "pos": [
+        195.656636,
+        305.921137,
+        0.0
+      ],
+      "x": 195.656636,
+      "y": 305.921137,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_44",
+      "pos": [
+        376.369327,
+        297.703374,
+        0.0
+      ],
+      "x": 376.369327,
+      "y": 297.703374,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_45",
+      "pos": [
+        483.939479,
+        293.012556,
+        0.0
+      ],
+      "x": 483.939479,
+      "y": 293.012556,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_46",
+      "pos": [
+        320.44635,
+        284.820031,
+        0.0
+      ],
+      "x": 320.44635,
+      "y": 284.820031,
+      "z": 0.0,
+      "degree": 5,
+      "node_type": "D5"
+    },
+    {
+      "id": "cluster_47",
+      "pos": [
+        48.904538,
+        282.081377,
+        0.0
+      ],
+      "x": 48.904538,
+      "y": 282.081377,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_48",
+      "pos": [
+        157.687883,
+        282.058153,
+        0.0
+      ],
+      "x": 157.687883,
+      "y": 282.058153,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_49",
+      "pos": [
+        352.112676,
+        278.169014,
+        0.0
+      ],
+      "x": 352.112676,
+      "y": 278.169014,
+      "z": 0.0,
+      "degree": 5,
+      "node_type": "D5"
+    },
+    {
+      "id": "cluster_50",
+      "pos": [
+        121.674491,
+        269.170579,
+        0.0
+      ],
+      "x": 121.674491,
+      "y": 269.170579,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_51",
+      "pos": [
+        18.407758,
+        263.27881,
+        0.0
+      ],
+      "x": 18.407758,
+      "y": 263.27881,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_52",
+      "pos": [
+        416.249563,
+        262.897865,
+        0.0
+      ],
+      "x": 416.249563,
+      "y": 262.897865,
+      "z": 0.0,
+      "degree": 11,
+      "node_type": "D11"
+    },
+    {
+      "id": "cluster_53",
+      "pos": [
+        228.873239,
+        260.56338,
+        0.0
+      ],
+      "x": 228.873239,
+      "y": 260.56338,
+      "z": 0.0,
+      "degree": 14,
+      "node_type": "D14"
+    },
+    {
+      "id": "cluster_54",
+      "pos": [
+        170.187793,
+        258.607199,
+        0.0
+      ],
+      "x": 170.187793,
+      "y": 258.607199,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_55",
+      "pos": [
+        55.164319,
+        248.826291,
+        0.0
+      ],
+      "x": 55.164319,
+      "y": 248.826291,
+      "z": 0.0,
+      "degree": 11,
+      "node_type": "D11"
+    },
+    {
+      "id": "cluster_56",
+      "pos": [
+        482.394366,
+        242.175274,
+        0.0
+      ],
+      "x": 482.394366,
+      "y": 242.175274,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_57",
+      "pos": [
+        20.735524,
+        240.610329,
+        0.0
+      ],
+      "x": 20.735524,
+      "y": 240.610329,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_58",
+      "pos": [
+        163.947664,
+        235.156244,
+        0.0
+      ],
+      "x": 163.947664,
+      "y": 235.156244,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_59",
+      "pos": [
+        303.99061,
+        227.699531,
+        0.0
+      ],
+      "x": 303.99061,
+      "y": 227.699531,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_60",
+      "pos": [
+        131.441731,
+        221.856613,
+        0.0
+      ],
+      "x": 131.441731,
+      "y": 221.856613,
+      "z": 0.0,
+      "degree": 5,
+      "node_type": "D5"
+    },
+    {
+      "id": "cluster_61",
+      "pos": [
+        328.651325,
+        218.284204,
+        0.0
+      ],
+      "x": 328.651325,
+      "y": 218.284204,
+      "z": 0.0,
+      "degree": 5,
+      "node_type": "D5"
+    },
+    {
+      "id": "cluster_62",
+      "pos": [
+        395.500424,
+        212.441315,
+        0.0
+      ],
+      "x": 395.500424,
+      "y": 212.441315,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_63",
+      "pos": [
+        250.802305,
+        211.68228,
+        0.0
+      ],
+      "x": 250.802305,
+      "y": 211.68228,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_64",
+      "pos": [
+        157.707714,
+        211.658842,
+        0.0
+      ],
+      "x": 157.707714,
+      "y": 211.658842,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_65",
+      "pos": [
+        297.691347,
+        211.658842,
+        0.0
+      ],
+      "x": 297.691347,
+      "y": 211.658842,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_66",
+      "pos": [
+        454.642035,
+        208.0741,
+        0.0
+      ],
+      "x": 454.642035,
+      "y": 208.0741,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_67",
+      "pos": [
+        180.80186,
+        203.442879,
+        0.0
+      ],
+      "x": 180.80186,
+      "y": 203.442879,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_68",
+      "pos": [
+        368.935837,
+        202.222509,
+        0.0
+      ],
+      "x": 368.935837,
+      "y": 202.222509,
+      "z": 0.0,
+      "degree": 5,
+      "node_type": "D5"
+    },
+    {
+      "id": "cluster_69",
+      "pos": [
+        77.477512,
+        198.748044,
+        0.0
+      ],
+      "x": 77.477512,
+      "y": 198.748044,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_70",
+      "pos": [
+        32.851127,
+        198.722598,
+        0.0
+      ],
+      "x": 32.851127,
+      "y": 198.722598,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_71",
+      "pos": [
+        215.111028,
+        192.122879,
+        0.0
+      ],
+      "x": 215.111028,
+      "y": 192.122879,
+      "z": 0.0,
+      "degree": 6,
+      "node_type": "D6"
+    },
+    {
+      "id": "cluster_72",
+      "pos": [
+        314.965059,
+        180.383376,
+        0.0
+      ],
+      "x": 314.965059,
+      "y": 180.383376,
+      "z": 0.0,
+      "degree": 11,
+      "node_type": "D11"
+    },
+    {
+      "id": "cluster_73",
+      "pos": [
+        426.831566,
+        179.541239,
+        0.0
+      ],
+      "x": 426.831566,
+      "y": 179.541239,
+      "z": 0.0,
+      "degree": 7,
+      "node_type": "D7"
+    },
+    {
+      "id": "cluster_74",
+      "pos": [
+        48.884706,
+        175.641664,
+        0.0
+      ],
+      "x": 48.884706,
+      "y": 175.641664,
+      "z": 0.0,
+      "degree": 6,
+      "node_type": "D6"
+    },
+    {
+      "id": "cluster_75",
+      "pos": [
+        140.84507,
+        166.27543,
+        0.0
+      ],
+      "x": 140.84507,
+      "y": 166.27543,
+      "z": 0.0,
+      "degree": 13,
+      "node_type": "D13"
+    },
+    {
+      "id": "cluster_76",
+      "pos": [
+        482.433849,
+        156.103286,
+        0.0
+      ],
+      "x": 482.433849,
+      "y": 156.103286,
+      "z": 0.0,
+      "degree": 7,
+      "node_type": "D7"
+    },
+    {
+      "id": "cluster_77",
+      "pos": [
+        19.561815,
+        147.887324,
+        0.0
+      ],
+      "x": 19.561815,
+      "y": 147.887324,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_78",
+      "pos": [
+        414.319249,
+        140.84507,
+        0.0
+      ],
+      "x": 414.319249,
+      "y": 140.84507,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_79",
+      "pos": [
+        94.276094,
+        139.307224,
+        0.0
+      ],
+      "x": 94.276094,
+      "y": 139.307224,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_80",
+      "pos": [
+        214.404271,
+        135.69972,
+        0.0
+      ],
+      "x": 214.404271,
+      "y": 135.69972,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_81",
+      "pos": [
+        239.43662,
+        130.672926,
+        0.0
+      ],
+      "x": 239.43662,
+      "y": 130.672926,
+      "z": 0.0,
+      "degree": 6,
+      "node_type": "D6"
+    },
+    {
+      "id": "cluster_82",
+      "pos": [
+        374.413146,
+        127.1518,
+        0.0
+      ],
+      "x": 374.413146,
+      "y": 127.1518,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_83",
+      "pos": [
+        61.06008,
+        126.369327,
+        0.0
+      ],
+      "x": 61.06008,
+      "y": 126.369327,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_84",
+      "pos": [
+        272.671874,
+        120.132984,
+        0.0
+      ],
+      "x": 272.671874,
+      "y": 120.132984,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_85",
+      "pos": [
+        213.203955,
+        115.391272,
+        0.0
+      ],
+      "x": 213.203955,
+      "y": 115.391272,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_86",
+      "pos": [
+        331.357501,
+        114.609014,
+        0.0
+      ],
+      "x": 331.357501,
+      "y": 114.609014,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_87",
+      "pos": [
+        297.742685,
+        103.259286,
+        0.0
+      ],
+      "x": 297.742685,
+      "y": 103.259286,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_88",
+      "pos": [
+        21.498346,
+        99.00601,
+        0.0
+      ],
+      "x": 21.498346,
+      "y": 99.00601,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_89",
+      "pos": [
+        146.689801,
+        94.679186,
+        0.0
+      ],
+      "x": 146.689801,
+      "y": 94.679186,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_90",
+      "pos": [
+        190.961333,
+        90.728808,
+        0.0
+      ],
+      "x": 190.961333,
+      "y": 90.728808,
+      "z": 0.0,
+      "degree": 2,
+      "node_type": "D2"
+    },
+    {
+      "id": "cluster_91",
+      "pos": [
+        440.899503,
+        84.507042,
+        0.0
+      ],
+      "x": 440.899503,
+      "y": 84.507042,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_92",
+      "pos": [
+        235.915493,
+        84.115806,
+        0.0
+      ],
+      "x": 235.915493,
+      "y": 84.115806,
+      "z": 0.0,
+      "degree": 12,
+      "node_type": "D12"
+    },
+    {
+      "id": "cluster_93",
+      "pos": [
+        483.935497,
+        82.159624,
+        0.0
+      ],
+      "x": 483.935497,
+      "y": 82.159624,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_94",
+      "pos": [
+        299.295775,
+        81.377152,
+        0.0
+      ],
+      "x": 299.295775,
+      "y": 81.377152,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_95",
+      "pos": [
+        387.71518,
+        79.812207,
+        0.0
+      ],
+      "x": 387.71518,
+      "y": 79.812207,
+      "z": 0.0,
+      "degree": 11,
+      "node_type": "D11"
+    },
+    {
+      "id": "cluster_96",
+      "pos": [
+        72.378717,
+        73.161189,
+        0.0
+      ],
+      "x": 72.378717,
+      "y": 73.161189,
+      "z": 0.0,
+      "degree": 11,
+      "node_type": "D11"
+    },
+    {
+      "id": "cluster_97",
+      "pos": [
+        20.735524,
+        70.813772,
+        0.0
+      ],
+      "x": 20.735524,
+      "y": 70.813772,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_98",
+      "pos": [
+        115.036249,
+        61.802561,
+        0.0
+      ],
+      "x": 115.036249,
+      "y": 61.802561,
+      "z": 0.0,
+      "degree": 5,
+      "node_type": "D5"
+    },
+    {
+      "id": "cluster_99",
+      "pos": [
+        275.039124,
+        55.117658,
+        0.0
+      ],
+      "x": 275.039124,
+      "y": 55.117658,
+      "z": 0.0,
+      "degree": 5,
+      "node_type": "D5"
+    },
+    {
+      "id": "cluster_100",
+      "pos": [
+        170.187793,
+        37.558685,
+        0.0
+      ],
+      "x": 170.187793,
+      "y": 37.558685,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_101",
+      "pos": [
+        23.865415,
+        25.43036,
+        0.0
+      ],
+      "x": 23.865415,
+      "y": 25.43036,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_102",
+      "pos": [
+        482.414017,
+        24.624663,
+        0.0
+      ],
+      "x": 482.414017,
+      "y": 24.624663,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_103",
+      "pos": [
+        272.691706,
+        24.601226,
+        0.0
+      ],
+      "x": 272.691706,
+      "y": 24.601226,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_104",
+      "pos": [
+        237.492294,
+        23.44708,
+        0.0
+      ],
+      "x": 237.492294,
+      "y": 23.44708,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_105",
+      "pos": [
+        141.665558,
+        23.436164,
+        0.0
+      ],
+      "x": 141.665558,
+      "y": 23.436164,
+      "z": 0.0,
+      "degree": 5,
+      "node_type": "D5"
+    },
+    {
+      "id": "cluster_106",
+      "pos": [
+        204.251007,
+        23.435696,
+        0.0
+      ],
+      "x": 204.251007,
+      "y": 23.435696,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_107",
+      "pos": [
+        328.247261,
+        23.082942,
+        0.0
+      ],
+      "x": 328.247261,
+      "y": 23.082942,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4"
+    },
+    {
+      "id": "cluster_108",
+      "pos": [
+        373.650324,
+        21.494773,
+        0.0
+      ],
+      "x": 373.650324,
+      "y": 21.494773,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_109",
+      "pos": [
+        420.201343,
+        19.927647,
+        0.0
+      ],
+      "x": 420.201343,
+      "y": 19.927647,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_110",
+      "pos": [
+        94.692736,
+        19.145174,
+        0.0
+      ],
+      "x": 94.692736,
+      "y": 19.145174,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "cluster_111",
+      "pos": [
+        66.138587,
+        18.364882,
+        0.0
+      ],
+      "x": 66.138587,
+      "y": 18.364882,
+      "z": 0.0,
+      "degree": 3,
+      "node_type": "D3"
+    },
+    {
+      "id": "recon_cross_001",
+      "pos": [
+        110.7202732910872,
+        125.30570607108395,
+        0.0
+      ],
+      "x": 110.7202732910872,
+      "y": 125.30570607108395,
+      "z": 0.0,
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "explicit_crossing_junction"
+    }
+  ],
+  "links": [
+    {
+      "source": "cluster_1",
+      "target": "cluster_11",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_1",
+      "target": "cluster_12",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_1",
+      "target": "cluster_17",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_1",
+      "target": "cluster_7",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_10",
+      "target": "cluster_14",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_10",
+      "target": "cluster_2",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_10",
+      "target": "cluster_7",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_100",
+      "target": "cluster_105",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_100",
+      "target": "cluster_106",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_100",
+      "target": "cluster_92",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_100",
+      "target": "cluster_98",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_101",
+      "target": "cluster_111",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_101",
+      "target": "cluster_96",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_101",
+      "target": "cluster_97",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_102",
+      "target": "cluster_109",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_102",
+      "target": "cluster_91",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_102",
+      "target": "cluster_93",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_102",
+      "target": "cluster_95",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_103",
+      "target": "cluster_104",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_103",
+      "target": "cluster_107",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_103",
+      "target": "cluster_92",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_103",
+      "target": "cluster_99",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_104",
+      "target": "cluster_106",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_104",
+      "target": "cluster_92",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_105",
+      "target": "cluster_106",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_105",
+      "target": "cluster_110",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_105",
+      "target": "cluster_96",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_105",
+      "target": "cluster_98",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_106",
+      "target": "cluster_92",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_107",
+      "target": "cluster_108",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_107",
+      "target": "cluster_95",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_107",
+      "target": "cluster_99",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_108",
+      "target": "cluster_109",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_108",
+      "target": "cluster_95",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_109",
+      "target": "cluster_95",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_11",
+      "target": "cluster_17",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_11",
+      "target": "cluster_4",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_110",
+      "target": "cluster_111",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_110",
+      "target": "cluster_96",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_111",
+      "target": "cluster_96",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_12",
+      "target": "cluster_14",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_12",
+      "target": "cluster_17",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_13",
+      "target": "cluster_17",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_13",
+      "target": "cluster_19",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_13",
+      "target": "cluster_4",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_14",
+      "target": "cluster_17",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_14",
+      "target": "cluster_2",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_14",
+      "target": "cluster_20",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_14",
+      "target": "cluster_21",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_14",
+      "target": "cluster_23",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_14",
+      "target": "cluster_25",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_14",
+      "target": "cluster_27",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_14",
+      "target": "cluster_31",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_14",
+      "target": "cluster_34",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_14",
+      "target": "cluster_7",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_14",
+      "target": "cluster_9",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_15",
+      "target": "cluster_16",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_15",
+      "target": "cluster_18",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_15",
+      "target": "cluster_22",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_15",
+      "target": "cluster_24",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_15",
+      "target": "cluster_29",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_15",
+      "target": "cluster_3",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_15",
+      "target": "cluster_32",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_15",
+      "target": "cluster_5",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_15",
+      "target": "cluster_6",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_15",
+      "target": "cluster_8",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_15",
+      "target": "cluster_9",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_16",
+      "target": "cluster_24",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_16",
+      "target": "cluster_8",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_17",
+      "target": "cluster_19",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_17",
+      "target": "cluster_21",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_17",
+      "target": "cluster_26",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_17",
+      "target": "cluster_28",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_17",
+      "target": "cluster_30",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_17",
+      "target": "cluster_33",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_17",
+      "target": "cluster_4",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_18",
+      "target": "cluster_20",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_18",
+      "target": "cluster_22",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_18",
+      "target": "cluster_35",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_18",
+      "target": "cluster_9",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_19",
+      "target": "cluster_28",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_2",
+      "target": "cluster_9",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_20",
+      "target": "cluster_25",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_20",
+      "target": "cluster_9",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_21",
+      "target": "cluster_23",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_21",
+      "target": "cluster_26",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_21",
+      "target": "cluster_38",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_22",
+      "target": "cluster_29",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_22",
+      "target": "cluster_35",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_23",
+      "target": "cluster_38",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_24",
+      "target": "cluster_32",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_25",
+      "target": "cluster_27",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_25",
+      "target": "cluster_35",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_26",
+      "target": "cluster_38",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_27",
+      "target": "cluster_31",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_27",
+      "target": "cluster_35",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_28",
+      "target": "cluster_42",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_29",
+      "target": "cluster_32",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_29",
+      "target": "cluster_35",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_29",
+      "target": "cluster_36",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_3",
+      "target": "cluster_5",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_3",
+      "target": "cluster_6",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_30",
+      "target": "cluster_33",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_30",
+      "target": "cluster_38",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_31",
+      "target": "cluster_34",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_31",
+      "target": "cluster_35",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_31",
+      "target": "cluster_37",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_31",
+      "target": "cluster_53",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_32",
+      "target": "cluster_36",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_32",
+      "target": "cluster_39",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_32",
+      "target": "cluster_45",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_33",
+      "target": "cluster_38",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_33",
+      "target": "cluster_41",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_33",
+      "target": "cluster_42",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_34",
+      "target": "cluster_38",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_34",
+      "target": "cluster_43",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_34",
+      "target": "cluster_53",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_35",
+      "target": "cluster_36",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_35",
+      "target": "cluster_37",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_35",
+      "target": "cluster_40",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_35",
+      "target": "cluster_44",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_35",
+      "target": "cluster_46",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_35",
+      "target": "cluster_53",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_36",
+      "target": "cluster_39",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_36",
+      "target": "cluster_40",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_36",
+      "target": "cluster_52",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_37",
+      "target": "cluster_53",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_38",
+      "target": "cluster_41",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_38",
+      "target": "cluster_43",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_38",
+      "target": "cluster_47",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_38",
+      "target": "cluster_48",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_38",
+      "target": "cluster_50",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_38",
+      "target": "cluster_53",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_38",
+      "target": "cluster_55",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_39",
+      "target": "cluster_45",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_39",
+      "target": "cluster_52",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_40",
+      "target": "cluster_44",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_40",
+      "target": "cluster_52",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_41",
+      "target": "cluster_47",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_42",
+      "target": "cluster_51",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_42",
+      "target": "cluster_55",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_43",
+      "target": "cluster_53",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_44",
+      "target": "cluster_49",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_44",
+      "target": "cluster_52",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_45",
+      "target": "cluster_52",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_45",
+      "target": "cluster_56",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_46",
+      "target": "cluster_49",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_46",
+      "target": "cluster_53",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_46",
+      "target": "cluster_59",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_46",
+      "target": "cluster_61",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_47",
+      "target": "cluster_55",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_48",
+      "target": "cluster_50",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_48",
+      "target": "cluster_54",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_49",
+      "target": "cluster_52",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_49",
+      "target": "cluster_61",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_49",
+      "target": "cluster_68",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_5",
+      "target": "cluster_9",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_50",
+      "target": "cluster_55",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_50",
+      "target": "cluster_60",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_51",
+      "target": "cluster_55",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_51",
+      "target": "cluster_57",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_52",
+      "target": "cluster_56",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_52",
+      "target": "cluster_62",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_52",
+      "target": "cluster_66",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_52",
+      "target": "cluster_68",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_52",
+      "target": "cluster_73",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_53",
+      "target": "cluster_54",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_53",
+      "target": "cluster_58",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_53",
+      "target": "cluster_59",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_53",
+      "target": "cluster_63",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_53",
+      "target": "cluster_65",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_53",
+      "target": "cluster_67",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_53",
+      "target": "cluster_71",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_54",
+      "target": "cluster_58",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_55",
+      "target": "cluster_57",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_55",
+      "target": "cluster_60",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_55",
+      "target": "cluster_69",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_55",
+      "target": "cluster_70",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_55",
+      "target": "cluster_74",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_55",
+      "target": "cluster_75",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_56",
+      "target": "cluster_66",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_56",
+      "target": "cluster_76",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_57",
+      "target": "cluster_70",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_57",
+      "target": "cluster_77",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_58",
+      "target": "cluster_60",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_58",
+      "target": "cluster_64",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_59",
+      "target": "cluster_61",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_59",
+      "target": "cluster_65",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_6",
+      "target": "cluster_8",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_60",
+      "target": "cluster_64",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_60",
+      "target": "cluster_75",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_61",
+      "target": "cluster_68",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_61",
+      "target": "cluster_72",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_62",
+      "target": "cluster_68",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_62",
+      "target": "cluster_73",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_63",
+      "target": "cluster_71",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_63",
+      "target": "cluster_72",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_64",
+      "target": "cluster_67",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_64",
+      "target": "cluster_75",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_65",
+      "target": "cluster_72",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_66",
+      "target": "cluster_73",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_66",
+      "target": "cluster_76",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_67",
+      "target": "cluster_75",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_68",
+      "target": "cluster_72",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_69",
+      "target": "cluster_74",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_69",
+      "target": "cluster_75",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_70",
+      "target": "cluster_74",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_70",
+      "target": "cluster_77",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_71",
+      "target": "cluster_72",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_71",
+      "target": "cluster_75",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_71",
+      "target": "cluster_80",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_71",
+      "target": "cluster_81",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_72",
+      "target": "cluster_73",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_72",
+      "target": "cluster_81",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_72",
+      "target": "cluster_82",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_72",
+      "target": "cluster_84",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_72",
+      "target": "cluster_86",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_72",
+      "target": "cluster_87",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_73",
+      "target": "cluster_76",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_73",
+      "target": "cluster_78",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_73",
+      "target": "cluster_82",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_74",
+      "target": "cluster_75",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_74",
+      "target": "cluster_79",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_74",
+      "target": "cluster_83",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_75",
+      "target": "cluster_79",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_75",
+      "target": "cluster_80",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_75",
+      "target": "cluster_85",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_75",
+      "target": "cluster_89",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_75",
+      "target": "cluster_90",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_75",
+      "target": "recon_cross_001",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_76",
+      "target": "cluster_78",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_76",
+      "target": "cluster_91",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_76",
+      "target": "cluster_93",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_76",
+      "target": "cluster_95",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_77",
+      "target": "cluster_88",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_77",
+      "target": "cluster_96",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_78",
+      "target": "cluster_82",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_78",
+      "target": "cluster_95",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_79",
+      "target": "cluster_83",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_79",
+      "target": "recon_cross_001",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_80",
+      "target": "cluster_81",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_80",
+      "target": "cluster_85",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_81",
+      "target": "cluster_84",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_81",
+      "target": "cluster_85",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_81",
+      "target": "cluster_92",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_82",
+      "target": "cluster_95",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_83",
+      "target": "cluster_96",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_84",
+      "target": "cluster_92",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_85",
+      "target": "cluster_92",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_86",
+      "target": "cluster_87",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_86",
+      "target": "cluster_94",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_86",
+      "target": "cluster_95",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_87",
+      "target": "cluster_92",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_88",
+      "target": "cluster_96",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_88",
+      "target": "cluster_97",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_89",
+      "target": "cluster_96",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_89",
+      "target": "cluster_98",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_89",
+      "target": "recon_cross_001",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_90",
+      "target": "cluster_92",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_91",
+      "target": "cluster_93",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_91",
+      "target": "cluster_95",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_92",
+      "target": "cluster_94",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_92",
+      "target": "cluster_98",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_92",
+      "target": "cluster_99",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_94",
+      "target": "cluster_95",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_94",
+      "target": "cluster_99",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_95",
+      "target": "cluster_99",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_96",
+      "target": "cluster_97",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_96",
+      "target": "cluster_98",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    },
+    {
+      "source": "cluster_96",
+      "target": "recon_cross_001",
+      "edge_origin": "hypothesis_constrained_reconstruction"
+    }
+  ],
+  "provenance": {
+    "source": "optimized_network_style_editor_and_topology(1).html",
+    "method": "restored clear radial core-arm skeleton",
+    "fixed_boundary_node_count_each_side": 8,
+    "bottom_boundary_nodes": [
+      "cluster_111",
+      "cluster_110",
+      "cluster_109",
+      "cluster_108",
+      "cluster_107",
+      "cluster_106",
+      "cluster_105",
+      "cluster_104"
+    ],
+    "top_boundary_nodes": [
+      "cluster_8",
+      "cluster_7",
+      "cluster_5",
+      "cluster_6",
+      "cluster_4",
+      "cluster_3",
+      "cluster_2",
+      "cluster_1"
+    ],
+    "core_nodes": [
+      "cluster_14",
+      "cluster_15",
+      "cluster_17",
+      "cluster_35",
+      "cluster_38",
+      "cluster_52",
+      "cluster_53",
+      "cluster_55",
+      "cluster_72",
+      "cluster_75",
+      "cluster_92",
+      "cluster_95",
+      "cluster_96"
+    ],
+    "core_degree_definition": "degree >= 10",
+    "crossing_resolution": "the single proper crossing was converted to an explicit degree-4 contact junction"
+  }
+}

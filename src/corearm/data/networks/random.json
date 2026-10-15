@@ -1,0 +1,2369 @@
+{
+  "nodes": [
+    {
+      "id": "cluster_1",
+      "pos": [
+        142.1691565877906,
+        500.0,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 142.1691565877906,
+      "y": 500.0,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_2",
+      "pos": [
+        437.8108432014534,
+        500.0,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 437.8108432014534,
+      "y": 500.0,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_3",
+      "pos": [
+        270.14089995480737,
+        500.0,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 270.14089995480737,
+      "y": 500.0,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_4",
+      "pos": [
+        49.77561074872605,
+        500.0,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 49.77561074872605,
+      "y": 500.0,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_5",
+      "pos": [
+        210.33631855953885,
+        477.87345024603013,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 210.33631855953885,
+      "y": 477.87345024603013,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_6",
+      "pos": [
+        0.0,
+        473.8660094918129,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "D3",
+      "node_origin": "original",
+      "x": 0.0,
+      "y": 473.8660094918129,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_7",
+      "pos": [
+        362.40955999322233,
+        472.47893510068826,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 362.40955999322233,
+      "y": 472.47893510068826,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_8",
+      "pos": [
+        495.68393280607233,
+        495.1572779226566,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 495.68393280607233,
+      "y": 495.1572779226566,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_9",
+      "pos": [
+        95.34926175754165,
+        422.11013990703,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 95.34926175754165,
+      "y": 422.11013990703,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_10",
+      "pos": [
+        317.96689887207606,
+        428.90962809755797,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 317.96689887207606,
+      "y": 428.90962809755797,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_11",
+      "pos": [
+        429.11989917317135,
+        456.23402393964625,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 429.11989917317135,
+      "y": 456.23402393964625,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_12",
+      "pos": [
+        258.33429151068384,
+        434.41029025106894,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 258.33429151068384,
+      "y": 434.41029025106894,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_13",
+      "pos": [
+        29.029279231394042,
+        410.32076634874824,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 29.029279231394042,
+      "y": 410.32076634874824,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_14",
+      "pos": [
+        143.88174212423735,
+        408.0314402988697,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 143.88174212423735,
+      "y": 408.0314402988697,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_15",
+      "pos": [
+        381.0159961393316,
+        408.1485724731841,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 381.0159961393316,
+      "y": 408.1485724731841,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_16",
+      "pos": [
+        208.66491713316418,
+        402.32067553778006,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 208.66491713316418,
+      "y": 402.32067553778006,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_17",
+      "pos": [
+        500.0,
+        389.66866320697636,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 500.0,
+      "y": 389.66866320697636,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_18",
+      "pos": [
+        347.7758977912314,
+        368.1000378266862,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 347.7758977912314,
+      "y": 368.1000378266862,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_19",
+      "pos": [
+        99.64295154330188,
+        370.09070138989324,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 99.64295154330188,
+      "y": 370.09070138989324,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_20",
+      "pos": [
+        0.0,
+        371.07443138762613,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 0.0,
+      "y": 371.07443138762613,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_21",
+      "pos": [
+        472.74632712185814,
+        354.1844123007756,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "D3",
+      "node_origin": "original",
+      "x": 472.74632712185814,
+      "y": 354.1844123007756,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_22",
+      "pos": [
+        170.17135811466153,
+        357.0829948338809,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 170.17135811466153,
+      "y": 357.0829948338809,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_23",
+      "pos": [
+        289.66102769082056,
+        351.26512977510816,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 289.66102769082056,
+      "y": 351.26512977510816,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_24",
+      "pos": [
+        386.55826620202515,
+        311.54560565443893,
+        0.0
+      ],
+      "degree": 5,
+      "node_type": "D5",
+      "node_origin": "original",
+      "x": 386.55826620202515,
+      "y": 311.54560565443893,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_25",
+      "pos": [
+        229.05731373457388,
+        344.08079282588517,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 229.05731373457388,
+      "y": 344.08079282588517,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_26",
+      "pos": [
+        52.07994183951595,
+        297.68989284164195,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 52.07994183951595,
+      "y": 297.68989284164195,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_27",
+      "pos": [
+        116.43458264841414,
+        275.29176450187185,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 116.43458264841414,
+      "y": 275.29176450187185,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_28",
+      "pos": [
+        327.6061844610839,
+        292.8004008237502,
+        0.0
+      ],
+      "degree": 5,
+      "node_type": "D5",
+      "node_origin": "original",
+      "x": 327.6061844610839,
+      "y": 292.8004008237502,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_29",
+      "pos": [
+        500.0,
+        279.07511076923873,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "D3",
+      "node_origin": "original",
+      "x": 500.0,
+      "y": 279.07511076923873,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_30",
+      "pos": [
+        446.0256385384931,
+        286.9447190694407,
+        0.0
+      ],
+      "degree": 5,
+      "node_type": "D5",
+      "node_origin": "original",
+      "x": 446.0256385384931,
+      "y": 286.9447190694407,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_31",
+      "pos": [
+        259.4146651418938,
+        291.0920581264906,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 259.4146651418938,
+      "y": 291.0920581264906,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_32",
+      "pos": [
+        168.30045291771995,
+        243.04896654253952,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 168.30045291771995,
+      "y": 243.04896654253952,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_33",
+      "pos": [
+        0.5601957277773408,
+        261.9726531123129,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 0.5601957277773408,
+      "y": 261.9726531123129,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_34",
+      "pos": [
+        405.53448918441643,
+        255.89671312006047,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 405.53448918441643,
+      "y": 255.89671312006047,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_35",
+      "pos": [
+        72.80108084545526,
+        236.86608381383684,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 72.80108084545526,
+      "y": 236.86608381383684,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_36",
+      "pos": [
+        25.618935825934813,
+        218.21160171386876,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 25.618935825934813,
+      "y": 218.21160171386876,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_37",
+      "pos": [
+        292.7773572009761,
+        236.04779694880014,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 292.7773572009761,
+      "y": 236.04779694880014,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_38",
+      "pos": [
+        472.70355321906936,
+        228.88471707307482,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 472.70355321906936,
+      "y": 228.88471707307482,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_39",
+      "pos": [
+        225.14923852320055,
+        238.4417274795,
+        0.0
+      ],
+      "degree": 5,
+      "node_type": "D5",
+      "node_origin": "original",
+      "x": 225.14923852320055,
+      "y": 238.4417274795,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_40",
+      "pos": [
+        359.6960630134183,
+        222.12696524500757,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 359.6960630134183,
+      "y": 222.12696524500757,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_41",
+      "pos": [
+        119.23248084186051,
+        201.26707336874713,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "D3",
+      "node_origin": "original",
+      "x": 119.23248084186051,
+      "y": 201.26707336874713,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_42",
+      "pos": [
+        407.63395891740913,
+        190.0766922581359,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 407.63395891740913,
+      "y": 190.0766922581359,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_43",
+      "pos": [
+        313.89383623981615,
+        179.7134957942099,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 313.89383623981615,
+      "y": 179.7134957942099,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_44",
+      "pos": [
+        0.6846912342623739,
+        169.8058161167643,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "D3",
+      "node_origin": "original",
+      "x": 0.6846912342623739,
+      "y": 169.8058161167643,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_45",
+      "pos": [
+        500.0,
+        171.0073044003745,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 500.0,
+      "y": 171.0073044003745,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_46",
+      "pos": [
+        177.27676867830047,
+        169.1944796672143,
+        0.0
+      ],
+      "degree": 5,
+      "node_type": "D5",
+      "node_origin": "original",
+      "x": 177.27676867830047,
+      "y": 169.1944796672143,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_47",
+      "pos": [
+        71.49121015015234,
+        161.67221524417988,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 71.49121015015234,
+      "y": 161.67221524417988,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_48",
+      "pos": [
+        254.82583289737792,
+        144.8827833856493,
+        0.0
+      ],
+      "degree": 5,
+      "node_type": "D5",
+      "node_origin": "original",
+      "x": 254.82583289737792,
+      "y": 144.8827833856493,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_49",
+      "pos": [
+        304.13208513987297,
+        110.64877179175309,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "D3",
+      "node_origin": "original",
+      "x": 304.13208513987297,
+      "y": 110.64877179175309,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_50",
+      "pos": [
+        399.92913366416076,
+        117.37872726007788,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 399.92913366416076,
+      "y": 117.37872726007788,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_51",
+      "pos": [
+        27.02534274055003,
+        116.96841631673482,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 27.02534274055003,
+      "y": 116.96841631673482,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_52",
+      "pos": [
+        462.93706701323083,
+        120.17505737739961,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 462.93706701323083,
+      "y": 120.17505737739961,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_53",
+      "pos": [
+        140.1513486907126,
+        116.72757415425508,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 140.1513486907126,
+      "y": 116.72757415425508,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_54",
+      "pos": [
+        200.2696477426005,
+        102.48910561765649,
+        0.0
+      ],
+      "degree": 5,
+      "node_type": "D5",
+      "node_origin": "original",
+      "x": 200.2696477426005,
+      "y": 102.48910561765649,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_55",
+      "pos": [
+        355.130777664421,
+        70.28948096140371,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 355.130777664421,
+      "y": 70.28948096140371,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_56",
+      "pos": [
+        496.16014645285964,
+        68.23155084217672,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "D3",
+      "node_origin": "original",
+      "x": 496.16014645285964,
+      "y": 68.23155084217672,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_57",
+      "pos": [
+        88.8698009554031,
+        93.20979498024926,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 88.8698009554031,
+      "y": 93.20979498024926,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_58",
+      "pos": [
+        437.5170355104413,
+        59.391145421056905,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 437.5170355104413,
+      "y": 59.391145421056905,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_59",
+      "pos": [
+        245.8921322171885,
+        59.60566417485728,
+        0.0
+      ],
+      "degree": 5,
+      "node_type": "D5",
+      "node_origin": "original",
+      "x": 245.8921322171885,
+      "y": 59.60566417485728,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_60",
+      "pos": [
+        0.0,
+        62.88869698004385,
+        0.0
+      ],
+      "degree": 5,
+      "node_type": "D5",
+      "node_origin": "original",
+      "x": 0.0,
+      "y": 62.88869698004385,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_61",
+      "pos": [
+        131.97752555498948,
+        49.17377371526439,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 131.97752555498948,
+      "y": 49.17377371526439,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_62",
+      "pos": [
+        299.59410547641465,
+        27.8494025570603,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 299.59410547641465,
+      "y": 27.8494025570603,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_63",
+      "pos": [
+        399.6588028518605,
+        10.55708338774977,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 399.6588028518605,
+      "y": 10.55708338774977,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_64",
+      "pos": [
+        183.35658052791274,
+        14.749331198175867,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 183.35658052791274,
+      "y": 14.749331198175867,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_65",
+      "pos": [
+        13.438332587593038,
+        0.0,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 13.438332587593038,
+      "y": 0.0,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_66",
+      "pos": [
+        475.9054355417586,
+        0.0,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 475.9054355417586,
+      "y": 0.0,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_67",
+      "pos": [
+        231.70754854959623,
+        0.0,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 231.70754854959623,
+      "y": 0.0,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_68",
+      "pos": [
+        119.60557885330283,
+        0.0,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 119.60557885330283,
+      "y": 0.0,
+      "z": 0.0
+    },
+    {
+      "id": "cluster_69",
+      "pos": [
+        343.824555972325,
+        0.0,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "original",
+      "x": 343.824555972325,
+      "y": 0.0,
+      "z": 0.0
+    },
+    {
+      "id": "cross_0001",
+      "pos": [
+        455.60291668810453,
+        178.6065058412292,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "intersection",
+      "x": 455.60291668810453,
+      "y": 178.6065058412292,
+      "z": 0.0
+    },
+    {
+      "id": "cross_0002",
+      "pos": [
+        358.68813448464545,
+        152.39630979590396,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "intersection",
+      "x": 358.68813448464545,
+      "y": 152.39630979590396,
+      "z": 0.0
+    },
+    {
+      "id": "cross_0003",
+      "pos": [
+        423.95610663393506,
+        340.77237145772267,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "intersection",
+      "x": 423.95610663393506,
+      "y": 340.77237145772267,
+      "z": 0.0
+    },
+    {
+      "id": "cross_0004",
+      "pos": [
+        485.7883725568488,
+        320.12153996911815,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "intersection",
+      "x": 485.7883725568488,
+      "y": 320.12153996911815,
+      "z": 0.0
+    },
+    {
+      "id": "cross_0005",
+      "pos": [
+        50.13715830270368,
+        59.22814161489896,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "D3",
+      "node_origin": "intersection",
+      "x": 50.13715830270368,
+      "y": 59.22814161489896,
+      "z": 0.0
+    },
+    {
+      "id": "cross_0006",
+      "pos": [
+        52.140609061298335,
+        8.021158996957666,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "intersection",
+      "x": 52.140609061298335,
+      "y": 8.021158996957666,
+      "z": 0.0
+    },
+    {
+      "id": "cross_0007",
+      "pos": [
+        81.84032669176034,
+        5.627791442277669,
+        0.0
+      ],
+      "degree": 3,
+      "node_type": "D3",
+      "node_origin": "intersection",
+      "x": 81.84032669176034,
+      "y": 5.627791442277669,
+      "z": 0.0
+    },
+    {
+      "id": "cross_0008",
+      "pos": [
+        240.28194959950184,
+        195.42591101016632,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "intersection",
+      "x": 240.28194959950184,
+      "y": 195.42591101016632,
+      "z": 0.0
+    },
+    {
+      "id": "cross_0009",
+      "pos": [
+        164.33635280285398,
+        451.5695912755144,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "intersection",
+      "x": 164.33635280285398,
+      "y": 451.5695912755144,
+      "z": 0.0
+    },
+    {
+      "id": "cross_0010",
+      "pos": [
+        48.332953476394266,
+        455.0940020187593,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "intersection",
+      "x": 48.332953476394266,
+      "y": 455.0940020187593,
+      "z": 0.0
+    },
+    {
+      "id": "cross_0011",
+      "pos": [
+        492.14834687410723,
+        440.3567131173089,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "intersection",
+      "x": 492.14834687410723,
+      "y": 440.3567131173089,
+      "z": 0.0
+    },
+    {
+      "id": "cross_0012",
+      "pos": [
+        451.47670682657565,
+        413.429906841812,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "intersection",
+      "x": 451.47670682657565,
+      "y": 413.429906841812,
+      "z": 0.0
+    },
+    {
+      "id": "cross_0013",
+      "pos": [
+        435.9131559694504,
+        378.56517394813255,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "intersection",
+      "x": 435.9131559694504,
+      "y": 378.56517394813255,
+      "z": 0.0
+    },
+    {
+      "id": "cross_0014",
+      "pos": [
+        2.4164450373890247,
+        321.31264152811553,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "intersection",
+      "x": 2.4164450373890247,
+      "y": 321.31264152811553,
+      "z": 0.0
+    },
+    {
+      "id": "cross_0015",
+      "pos": [
+        58.41042007731855,
+        352.6547621876102,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "intersection",
+      "x": 58.41042007731855,
+      "y": 352.6547621876102,
+      "z": 0.0
+    },
+    {
+      "id": "cross_0016",
+      "pos": [
+        109.33887174472184,
+        469.2202473661335,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "intersection",
+      "x": 109.33887174472184,
+      "y": 469.2202473661335,
+      "z": 0.0
+    },
+    {
+      "id": "cross_0017",
+      "pos": [
+        193.93340643598967,
+        296.4122293729157,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "intersection",
+      "x": 193.93340643598967,
+      "y": 296.4122293729157,
+      "z": 0.0
+    },
+    {
+      "id": "cross_0018",
+      "pos": [
+        131.55886498278454,
+        324.58599322136104,
+        0.0
+      ],
+      "degree": 4,
+      "node_type": "D4",
+      "node_origin": "intersection",
+      "x": 131.55886498278454,
+      "y": 324.58599322136104,
+      "z": 0.0
+    }
+  ],
+  "links": [
+    {
+      "source": "cluster_1",
+      "target": "cluster_3",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_1",
+      "target": "cluster_4",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_1",
+      "target": "cross_0009",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_1",
+      "target": "cross_0016",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_10",
+      "target": "cluster_12",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_10",
+      "target": "cluster_18",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_10",
+      "target": "cluster_23",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_10",
+      "target": "cluster_28",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_11",
+      "target": "cluster_2",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_11",
+      "target": "cluster_8",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_11",
+      "target": "cross_0011",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_11",
+      "target": "cross_0012",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_12",
+      "target": "cluster_3",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_12",
+      "target": "cluster_5",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_12",
+      "target": "cluster_7",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_13",
+      "target": "cluster_19",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_13",
+      "target": "cluster_20",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_13",
+      "target": "cluster_6",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_13",
+      "target": "cross_0010",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_14",
+      "target": "cluster_16",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_14",
+      "target": "cluster_25",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_14",
+      "target": "cluster_9",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_14",
+      "target": "cross_0016",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_15",
+      "target": "cluster_18",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_15",
+      "target": "cross_0003",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_15",
+      "target": "cross_0012",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_15",
+      "target": "cross_0013",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_16",
+      "target": "cluster_23",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_16",
+      "target": "cluster_25",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_16",
+      "target": "cross_0009",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_17",
+      "target": "cluster_21",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_17",
+      "target": "cluster_45",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_17",
+      "target": "cluster_8",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_17",
+      "target": "cross_0013",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_18",
+      "target": "cluster_24",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_18",
+      "target": "cluster_7",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_19",
+      "target": "cluster_22",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_19",
+      "target": "cross_0010",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_19",
+      "target": "cross_0015",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_2",
+      "target": "cluster_3",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_2",
+      "target": "cluster_7",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_2",
+      "target": "cluster_8",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_20",
+      "target": "cluster_6",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_20",
+      "target": "cross_0014",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_20",
+      "target": "cross_0015",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_21",
+      "target": "cross_0003",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_21",
+      "target": "cross_0013",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_22",
+      "target": "cluster_9",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_22",
+      "target": "cross_0010",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_22",
+      "target": "cross_0015",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_23",
+      "target": "cluster_31",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_23",
+      "target": "cluster_5",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_24",
+      "target": "cluster_28",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_24",
+      "target": "cluster_30",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_24",
+      "target": "cross_0003",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_24",
+      "target": "cross_0004",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_25",
+      "target": "cluster_31",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_25",
+      "target": "cross_0018",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_26",
+      "target": "cluster_33",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_26",
+      "target": "cluster_35",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_26",
+      "target": "cluster_36",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_26",
+      "target": "cross_0014",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_27",
+      "target": "cluster_35",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_27",
+      "target": "cross_0014",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_27",
+      "target": "cross_0017",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_27",
+      "target": "cross_0018",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_28",
+      "target": "cluster_31",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_28",
+      "target": "cluster_34",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_28",
+      "target": "cluster_39",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_29",
+      "target": "cluster_30",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_29",
+      "target": "cluster_38",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_29",
+      "target": "cross_0004",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_3",
+      "target": "cluster_5",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_30",
+      "target": "cluster_38",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_30",
+      "target": "cluster_42",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_30",
+      "target": "cross_0004",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_31",
+      "target": "cross_0017",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_32",
+      "target": "cluster_35",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_32",
+      "target": "cluster_39",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_32",
+      "target": "cluster_41",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_32",
+      "target": "cross_0017",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_33",
+      "target": "cluster_44",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_33",
+      "target": "cluster_60",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_33",
+      "target": "cross_0014",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_34",
+      "target": "cluster_37",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_34",
+      "target": "cluster_40",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_34",
+      "target": "cluster_48",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_35",
+      "target": "cluster_47",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_36",
+      "target": "cluster_44",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_36",
+      "target": "cluster_47",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_36",
+      "target": "cluster_51",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_37",
+      "target": "cluster_39",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_37",
+      "target": "cluster_48",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_37",
+      "target": "cross_0008",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_38",
+      "target": "cluster_45",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_38",
+      "target": "cross_0001",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_39",
+      "target": "cluster_46",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_39",
+      "target": "cross_0008",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_4",
+      "target": "cluster_6",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_4",
+      "target": "cluster_9",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_4",
+      "target": "cross_0016",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_40",
+      "target": "cluster_42",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_40",
+      "target": "cluster_50",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_40",
+      "target": "cross_0002",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_41",
+      "target": "cluster_46",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_41",
+      "target": "cluster_53",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_42",
+      "target": "cluster_52",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_42",
+      "target": "cross_0001",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_43",
+      "target": "cluster_49",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_43",
+      "target": "cluster_55",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_43",
+      "target": "cluster_62",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_43",
+      "target": "cross_0002",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_44",
+      "target": "cluster_51",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_45",
+      "target": "cluster_56",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_45",
+      "target": "cross_0001",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_46",
+      "target": "cluster_48",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_46",
+      "target": "cluster_54",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_46",
+      "target": "cross_0008",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_47",
+      "target": "cluster_53",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_47",
+      "target": "cluster_57",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_48",
+      "target": "cluster_49",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_48",
+      "target": "cross_0008",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_49",
+      "target": "cluster_59",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_5",
+      "target": "cross_0009",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_50",
+      "target": "cluster_55",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_50",
+      "target": "cluster_58",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_50",
+      "target": "cross_0002",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_51",
+      "target": "cluster_57",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_51",
+      "target": "cluster_60",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_52",
+      "target": "cluster_56",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_52",
+      "target": "cluster_66",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_52",
+      "target": "cross_0001",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_53",
+      "target": "cluster_54",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_53",
+      "target": "cluster_57",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_54",
+      "target": "cluster_59",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_54",
+      "target": "cluster_61",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_54",
+      "target": "cross_0005",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_55",
+      "target": "cluster_58",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_55",
+      "target": "cross_0002",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_56",
+      "target": "cluster_66",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_57",
+      "target": "cluster_60",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_58",
+      "target": "cluster_63",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_58",
+      "target": "cluster_66",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_59",
+      "target": "cluster_61",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_59",
+      "target": "cluster_62",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_59",
+      "target": "cluster_64",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_60",
+      "target": "cluster_65",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_60",
+      "target": "cross_0005",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_61",
+      "target": "cluster_64",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_61",
+      "target": "cross_0006",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_62",
+      "target": "cluster_63",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_62",
+      "target": "cluster_67",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_63",
+      "target": "cluster_67",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_63",
+      "target": "cluster_69",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_64",
+      "target": "cluster_68",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_64",
+      "target": "cross_0007",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_65",
+      "target": "cluster_68",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_65",
+      "target": "cross_0006",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_65",
+      "target": "cross_0007",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_66",
+      "target": "cluster_69",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_67",
+      "target": "cluster_68",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_67",
+      "target": "cluster_69",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_68",
+      "target": "cluster_69",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_7",
+      "target": "cross_0012",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_8",
+      "target": "cross_0011",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cluster_9",
+      "target": "cross_0010",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cross_0003",
+      "target": "cross_0004",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cross_0005",
+      "target": "cross_0006",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cross_0006",
+      "target": "cross_0007",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cross_0009",
+      "target": "cross_0016",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cross_0011",
+      "target": "cross_0012",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cross_0011",
+      "target": "cross_0013",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cross_0015",
+      "target": "cross_0018",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    },
+    {
+      "source": "cross_0017",
+      "target": "cross_0018",
+      "edge_origin": "handwritten_guided_topology_constrained_rewire"
+    }
+  ],
+  "optimization": {
+    "target_reference": "ca_low_corrected",
+    "target_total_length": 13738.008438834304,
+    "actual_total_length": 13744.880008174521,
+    "absolute_error": 6.87156934021732,
+    "marked_edges_removed": [
+      [
+        "cluster_15",
+        "cross_0013"
+      ],
+      [
+        "cluster_38",
+        "cluster_42"
+      ],
+      [
+        "cluster_59",
+        "cross_0007"
+      ]
+    ],
+    "retained_original_edges": 156,
+    "new_rewired_edges": 18,
+    "degree_counts": {
+      "3": 8,
+      "4": 71,
+      "5": 8
+    },
+    "degree3_nodes": [
+      "cluster_15",
+      "cluster_38",
+      "cluster_44",
+      "cluster_6",
+      "cluster_69",
+      "cross_0007",
+      "cross_0008",
+      "cross_0013"
+    ],
+    "degree5_nodes": [
+      "cluster_21",
+      "cluster_25",
+      "cluster_28",
+      "cluster_34",
+      "cluster_39",
+      "cluster_41",
+      "cluster_58",
+      "cluster_62"
+    ],
+    "constraints": {
+      "connected": true,
+      "degree_min": 3,
+      "degree_max": 5,
+      "nodes_degree_3_or_4_fraction": 0.9080459770114943,
+      "proper_crossings": 0
+    }
+  },
+  "provenance": {
+    "source": "optimized_network_style_editor_and_topology(1).html",
+    "method": "pre-simulation hypothesis-constrained reconstruction",
+    "random_seed": 20260720,
+    "core_degree_cap": null,
+    "fixed_boundary_node_count_each_side": 8,
+    "bottom_boundary_nodes": [
+      "cluster_69",
+      "cluster_68",
+      "cluster_67",
+      "cluster_66",
+      "cluster_65",
+      "cross_0007",
+      "cross_0006",
+      "cluster_64"
+    ],
+    "top_boundary_nodes": [
+      "cross_0016",
+      "cluster_7",
+      "cluster_6",
+      "cluster_5",
+      "cluster_4",
+      "cluster_3",
+      "cluster_2",
+      "cluster_1"
+    ],
+    "core_nodes": [],
+    "spatial_regularization": {
+      "method": "crossing-free finite-range repulsion with edge-restraint",
+      "random_seed": 20260721,
+      "topology_changed": false,
+      "uniform_scale_for_exact_length_match": 1.010469487241456,
+      "target_total_bridge_length": 13801.418618405407,
+      "metrics_before": {
+        "nearest_neighbor_mean": 40.44071234367277,
+        "nearest_neighbor_cv": 0.3885632604421288,
+        "nearest_neighbor_min": 4.671225883556685,
+        "nearest_neighbor_p10": 22.06714224650761,
+        "grid_4x4_count_cv": 0.2905568887302193,
+        "grid_4x4_count_min": 3,
+        "grid_4x4_count_max": 10
+      },
+      "metrics_after": {
+        "nearest_neighbor_mean": 49.289339961483016,
+        "nearest_neighbor_cv": 0.15217557560462103,
+        "nearest_neighbor_min": 27.848139153968038,
+        "nearest_neighbor_p10": 40.22430948780773,
+        "grid_4x4_count_cv": 0.1835484991111645,
+        "grid_4x4_count_min": 4,
+        "grid_4x4_count_max": 8
+      }
+    },
+    "degree_preserving_rewire": {
+      "method": "planar two-edge swaps minimizing edge-grid and angular crowding",
+      "random_seed": 20260722,
+      "iterations": 18000,
+      "accepted_swaps": 28,
+      "degree_sequence_changed": false,
+      "minimum_boundary_edge_cut_capacity": 8,
+      "target_total_bridge_length": 13738.008438834302,
+      "final_uniform_scale": 1.0108762628648975,
+      "metrics_before": {
+        "edge_grid_cv": 0.27588698261544137,
+        "angular_crowding": 0.07148907377987299,
+        "mean_min_angle_deg": 25.893317923416305,
+        "minimum_angle_deg": 0.003472443816496888,
+        "total_length": 13801.418618405405,
+        "p90_over_mean_length": 1.6217137581409216,
+        "triangle_edge_fraction": 0.6896551724137931
+      },
+      "metrics_after": {
+        "edge_grid_cv": 0.21688474122230914,
+        "angular_crowding": 0.055757556059194,
+        "mean_min_angle_deg": 26.340453430933106,
+        "minimum_angle_deg": 0.0034724438165350544,
+        "total_length": 13738.008438834302,
+        "p90_over_mean_length": 1.5487547662339674,
+        "triangle_edge_fraction": 0.6149425287356322
+      }
+    },
+    "handwritten_guided_reconstruction": {
+      "interpretation": "blue strokes are sparse-region additions; red crosses are dense/bundled-edge removals",
+      "selection_rule": "joint planarity, connectivity, degree 3--5, preserved 3/4-degree fraction, reduced angular crowding and triangle-edge participation",
+      "marked_addition_segments": 22,
+      "accepted_additions": [
+        [
+          "cluster_23",
+          "cluster_31"
+        ],
+        [
+          "cluster_24",
+          "cluster_30"
+        ],
+        [
+          "cluster_26",
+          "cluster_36"
+        ],
+        [
+          "cluster_28",
+          "cluster_31"
+        ],
+        [
+          "cluster_29",
+          "cluster_38"
+        ],
+        [
+          "cluster_32",
+          "cluster_39"
+        ],
+        [
+          "cluster_40",
+          "cluster_42"
+        ],
+        [
+          "cluster_41",
+          "cluster_46"
+        ],
+        [
+          "cluster_45",
+          "cross_0001"
+        ],
+        [
+          "cluster_46",
+          "cluster_54"
+        ],
+        [
+          "cluster_47",
+          "cluster_57"
+        ],
+        [
+          "cluster_48",
+          "cluster_49"
+        ],
+        [
+          "cluster_54",
+          "cluster_59"
+        ],
+        [
+          "cluster_59",
+          "cluster_64"
+        ],
+        [
+          "cluster_60",
+          "cluster_65"
+        ],
+        [
+          "cluster_62",
+          "cluster_67"
+        ]
+      ],
+      "accepted_removals": [
+        [
+          "cluster_21",
+          "cluster_29"
+        ],
+        [
+          "cluster_23",
+          "cluster_25"
+        ],
+        [
+          "cluster_26",
+          "cluster_47"
+        ],
+        [
+          "cluster_29",
+          "cluster_45"
+        ],
+        [
+          "cluster_31",
+          "cluster_32"
+        ],
+        [
+          "cluster_31",
+          "cluster_39"
+        ],
+        [
+          "cluster_34",
+          "cluster_42"
+        ],
+        [
+          "cluster_36",
+          "cluster_57"
+        ],
+        [
+          "cluster_40",
+          "cluster_58"
+        ],
+        [
+          "cluster_41",
+          "cluster_54"
+        ],
+        [
+          "cluster_41",
+          "cluster_59"
+        ],
+        [
+          "cluster_46",
+          "cluster_49"
+        ],
+        [
+          "cluster_49",
+          "cluster_62"
+        ],
+        [
+          "cluster_56",
+          "cross_0001"
+        ],
+        [
+          "cluster_64",
+          "cluster_67"
+        ],
+        [
+          "cluster_65",
+          "cross_0005"
+        ]
+      ],
+      "edge_count_changed": false,
+      "length_normalization_scale_before_boundary_clipping": 1.05843390296417,
+      "target_total_bridge_length": 13738.008438834304
+    }
+  }
+}
